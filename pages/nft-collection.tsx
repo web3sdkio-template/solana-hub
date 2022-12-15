@@ -26,7 +26,7 @@ export default function NFTCollection() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/solana/programs/nft-collections"
+              href="https://docs.web3sdk.io/solana/programs/nft-collections"
             >
               Check out the documentation here.
             </a>

@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           Explore what you can do with web3sdkio&rsquo;s brand new{" "}
           <b>
             <a
-              href="https://portal.web3sdk.io/solana"
+              href="https://docs.web3sdk.io/solana"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.purple}
@@ -50,7 +50,7 @@ const Home: NextPage = () => {
         <a
           className={`${styles.mainButton} ${styles.bigSpacerTop} ${styles.noUnderline}`}
           role="button"
-          href="https://portal.web3sdk.io/solana"
+          href="https://docs.web3sdk.io/solana"
           target="_blank"
           rel="noopener noreferrer"
         >

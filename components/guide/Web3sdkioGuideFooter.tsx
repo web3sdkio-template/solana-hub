@@ -19,7 +19,7 @@ export default function Web3sdkioGuideFooter() {
         role="button"
         onClick={() =>
           window.open(
-            "https://github.com/web3sdkio-example/solana-hub",
+            "https://github.com/web3sdkio-template/solana-hub",
             "_blank"
           )
         }
@@ -40,7 +40,7 @@ export default function Web3sdkioGuideFooter() {
           style={{ cursor: "pointer" }}
           onClick={() =>
             window.open(
-              "https://github.com/web3sdkio-example/solana-hub",
+              "https://github.com/web3sdkio-template/solana-hub",
               "_blank"
             )
           }
